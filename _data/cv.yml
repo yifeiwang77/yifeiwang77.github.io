@@ -1,0 +1,121 @@
+- title: Working Experience
+  type: time_table
+  contents:
+    - title: Postdoctoral Research Associate, Computer Science and Artificial Intelligence Laboratory (CSAIL)
+      institution: Massachusetts Institute of Technology (MIT), Cambridge, MA, USA
+      year: 2023-12 -
+      description:
+        - Advised by <a href="https://people.csail.mit.edu/stefje/">Prof. Stefanie Jegelka</a>
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D. in Applied Mathematics, School of Mathematical Sciences
+      institution: Peking University, Beijing, China
+      year: 2023-07
+      description:
+        - 'Thesis: Self-supervised Contrastive Learning: Theory and Method'
+        - Advised by <a href="https://yisenwang.github.io/">Prof. Yisen Wang</a>, <a href="https://zhouchenlin.github.io/">Prof. Zhouchen Lin</a>, <a href="https://www.math.pku.edu.cn/69984.htm">Prof. Jiansheng Yang</a>
+    - title: B.S. in Data Science, School of Mathematical Sciences
+      institution: Peking University, Beijing, China
+      year: 2017-07
+    - title: B.A. in Philosophy (Double Degree), Department of Philosophy
+      institution: Peking University, Beijing, China
+      year: 2017-07
+
+
+- title: Awards and Scholarships
+  type: time_table
+  contents:
+    - year: 2024
+      items:
+        - Best Paper Award, ICML 2024 ICL Workshop
+    - year: 2023
+      items:
+        - Wenjun Wu Outstanding Ph.D. Dissertation Runner-Up Award (Top 14 nationwide), Chinese Association for Artificial Intelligence (CAAI)
+        - Excellent Graduate of Beijing Municipality (Top 0.1%)
+        - Excellent Graduate of Peking University (Top 1%)
+    - year: 2022
+      items:
+        - National Scholarship (Top 0.1% nationwide), China 
+        - President Scholarship (Top 1% university-wide), Peking University
+        - Baidu Scholarship Nomination Award (Top 20 worldwide), Baidu Inc.
+    - year: 2021
+      items:
+        - National Scholarship (Top 0.1% nationwide), China
+        - Silver Best Paper Award, ICML 2021 AML Workshop
+        - Best Machine Learning Paper Award (1/685), ECML-PKDD 2021
+
+- title: Roles and Responsibilities
+  type: time_table
+  contents:
+    - title: Area Chair
+      maindescription: ICLR 2024, ICLR 2025
+      # year: 2024, 2025
+    - title: Organizer
+      maindescription: <a href="https://redteaming-gen-ai.github.io/">NeurIPS 2024 Workshop on Red Teaming GenAI</a>, <a href="https://projects.csail.mit.edu/ml-tea/">MIT ML Tea Seminar</a>  (Fall 2024)
+      # year: 2024
+      # description:
+      #   - <a href="https://redteaming-gen-ai.github.io/">Workshop Link</a>
+    - title: Reviewer
+      # institution: < MIT ML Tea Seminar
+      # year: 2024
+      maindescription: NeurIPS, ICML, AISTATS, AAAI, LoG, ECML-PKDD, CVPR, ICCV, ACL
+
+- title: Invited Talks
+  type: time_table
+  contents:
+    - title: A Principled Path to Safe Foundation Models
+      institution: MIT
+      year: October 2024
+    - title: Building Safe Foundation Models from Principled Understanding
+      institution: New York University
+      year: September 2024
+    - title: Reimagining Self-supervised Learning with Context
+      institution: Princeton University
+      year: August 2024
+    - title: Non-negative Contrastive Learning
+      institution: Cohere AI
+      year: June 2024
+    - title: Self-supervised Learning of Identifiable Features
+      institution: TU Munich
+      year: May 2024
+    - title: Non-negative Contrastive Learning
+      institution: MIT
+      year: April 2024
+    - title: Understanding and Applying Self-supervised Learning via Graph
+      institution: Deep Potential
+      year: 2023
+    - title: Towards Theoretical Foundations of Self-supervised Learning
+      institution: KAIST
+      year: 2022
+    - title: Towards Truly Unlearnable Examples for Data Privacy
+      institution: Chinese Academy of Science
+      year: 2022
+    - title: Reparameterized Sampling for GANs
+      institution: Beijing Academy of Artificial Intelligence (BAAI)
+      year: 2021
+    # - title: Reparameterized Sampling for GANs, Plenary Talk at ECML-PKDD 2021
+    #   year: 2021
+
+- title: Teaching Experience
+  type: time_table
+  contents:
+    - title: Guest Lecturer
+      maindescription: <a href="https://miayuanai.github.io/csci3370/f24/">CSCI 3370 Deep Learning</a>, Boston College
+      year: Fall 2024
+    - title: Teaching Assistant
+      maindescription: Introduction to AI (Trustworthy ML Class), Peking University
+      year: Fall 2022
+    - title: Teaching Assistant
+      maindescription: Advanced Topics in Machine Learning, Peking University
+      year: Fall 2022
+    - title: Teaching Assistant
+      maindescription: Advanced Mathematics, Peking University
+      year: Spring 2021
+    - title: Teaching Assistant
+      maindescription: Optimization Methods in ML, Peking University
+      year: Fall 2019
+    - title: Teaching Assistant and Co-instructor
+      maindescription: Machine Learning, Peking University
+      year: Fall 2017
