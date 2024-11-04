@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yifeiwang77.com/sitemap.xml
+Sitemap: https://yifeiwang77.github.io/sitemap.xml
