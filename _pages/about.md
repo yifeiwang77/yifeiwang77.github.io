@@ -13,7 +13,7 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 ---
 
-I am currently a postdoctoral researcher at MIT CSAIL, advised by [Stefanie Jegelka](https://people.csail.mit.edu/stefje/). I am generally interested in understanding the underlying principles of foundation models and design theory-inspired algorithms to improve their capability and robustness. I have worked on multiple relevant areas including large language models, self-supervised learning, adversarial robustness, and graph representation learning.
+I am currently a postdoctoral researcher at MIT CSAIL, advised by [Stefanie Jegelka](https://people.csail.mit.edu/stefje/). I am generally interested in understanding the underlying principles of foundation models and design theory-inspired algorithms to improve their capability and safety. I have worked on multiple relevant areas including large language models, self-supervised learning, adversarial robustness, and graph representation learning.
 
 My first-author papers received 3 best paper awards, including the sole Best ML Paper Award at ECML-PKDD 2021, the Silver Best Paper Award at the ICML 2021 AdvML workshop, and the Best Paper Award at the ICML 2024 ICL workshop.
 
