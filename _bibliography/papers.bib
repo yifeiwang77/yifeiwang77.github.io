@@ -11,7 +11,7 @@
   selected = {true},
   note = {
   <span style="font-weight: bold;">Best Paper Award</span>  at ICML 2024 ICL Workshop<br>
-  We introduced the first theoretical explanation of how self-correction works in LLMs (as in o1) and showed its effectiveness against social bias and jailbreak attacks.}
+  We proposed the first theoretical explanation of how LLM self-correction works (as in OpenAI o1) and showed its effectiveness against social bias and jailbreak attacks.}
 }
 
 @inproceedings{wang2024equivariance,
@@ -33,7 +33,7 @@
   code={https://github.com/Sharut/In-Context-Symmetries},
   abbr={NeurIPS},
   note={<span style="font-weight: bold;">Oral Presentation (top 4)</span> at NeurIPS 2024 SSL Workshop<br>
-  We introduced in-context learning abilities to joint embedding methods, making them more general-purpose and efficiently adaptable to downstream tasks.},
+  We introduced unsupervised test-time adaptation ability to self-supervised learning through a contextual world model designed for joint embedding (JEPA) models.},
   selected = {true},
 }
 
@@ -142,7 +142,7 @@
   slides={NCL_LIDS_tea.pdf},
   abbr={ICLR},
   selected = {true},
-  note = {Drawing inspirations from Non-negative Matrix Factorization (NMF), we introduced a principled one-line technique that significantly boosts representation interpretability.}
+  note = {Inspired by NMF, we introduced a one-line technique that enables contrastive learning to have feature sparsity of 90% and 10x better feature interpretability.}
 }
 
 @inproceedings{wang2024generated,
@@ -154,7 +154,7 @@
   code={https://github.com/PKU-ML/adainf},
   featured={https://mp.weixin.qq.com/s/MSSzIl3KnvRzgWVN0ZyW6A},
   abbr={ICLR},
-  selected = {true},
+  selected = {false},
   note = {We revealed both theoretically and practically that synthetic data introduces fundamental bias to SSL generalization, but, with an adaptive strategy of data mixing and augmentation, can yield substantial benefits.}
 }
 
@@ -226,7 +226,7 @@
   pdf={https://arxiv.org/pdf/2306.04272},
   code={https://github.com/PKU-ML/CLIP-Help-SimCLR},
   abbr={ICML},
-  selected = {true},
+  selected = {false},
   note={We established the first generalization analysis for multi-modal contrastive learning (e.g., CLIP) and explained how it outperforms self-supervised contrastive learning.}
 }
 
@@ -268,7 +268,7 @@
   slides={ICLR23_Message_Passing.pdf},
   blog={https://mp.weixin.qq.com/s/e18pZfee7ffwAHMUBZ_OEg},
   abbr={ICLR},
-  selected = {true},
+  selected = {false},
   note = {We revealed that contrastive learning performs message passing on sample graph, which connects self-supervised learning and graph neural networks as a whole.}
 }
 
@@ -280,7 +280,7 @@
   pdf={https://openreview.net/pdf?id=cIbjyd2Vcy},
   code={https://github.com/PKU-ML/Rank-Differential-Mechanism},
   abbr={ICLR},
-  selected = {true},
+  selected = {false},
   note = {We revealed that various asymmtric designs in non-contrastive learning (BYOL, SimSiam, DINO, SwAV) can be explained from a unified spectral filtering perspective.}
 }
 
@@ -292,6 +292,8 @@
   pdf={https://openreview.net/pdf?id=0qmwFNJyxCL},
   code={https://github.com/PKU-ML/DynACL},
   abbr={ICLR},
+  selected = {true},
+  note = {We redesigned adversarial training in the unsupervised setting and attained SOTA by improving AutoAttack by at most 9%  without extra computation cost.}
 }
 
 @inproceedings{guo2023contranorm,
@@ -334,7 +336,7 @@
   slides={NeurIPS2022_mae.pdf},
   abbr={NeurIPS Spotlight},
   selected = {true},
-  note = {We established the first generalization analysis of masked autoencoders and revealed an inherent connection to contrastive learning.}
+  note = {We theoretically explained how masked autoencoders work and revealed their mathematical connections to joint embedding methods, unifying them as a whole. }
 }
 
 @inproceedings{wang2022ood,
@@ -398,7 +400,7 @@
   slides={ICLR2022_overlap.pdf},
   abbr={ICLR},
   selected = {true},
-  note = {We established a new graph perspective to formulate how contrastive learning works, and established practical generalization bounds and unsupervised measures.}
+  note = {We established a new graph-theoretic perspective to understand how contrastive self-supervised learning works and derive tight generalization bounds.}
 }
 
 @inproceedings{wang2022cem,

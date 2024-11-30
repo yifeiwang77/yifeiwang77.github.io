@@ -4,7 +4,7 @@ permalink: /talks/
 title: "talks"
 # description: "Materials for courses taught by Yifei."
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
 I gave themed talks on our research works. Here are some examples.

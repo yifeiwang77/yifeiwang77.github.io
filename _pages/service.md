@@ -4,7 +4,7 @@ permalink: /service/
 title: "service"
 # description: "Materials for courses taught by Yifei."
 nav: true
-nav_order: 6
+nav_order: 3
 ---
 
 ### Academic service
