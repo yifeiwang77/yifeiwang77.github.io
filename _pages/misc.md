@@ -11,7 +11,7 @@ nav_order: 5
 
 - I grew up near the Yellow river, and I used to travel across a [pontoon bridge](yellowriver.png) every week to go to school before colledge.
 
-- I enjoy road trip with my wife. We have been to [Tibet](HorseRace.mp4) (reversely from Lhasa to Chengdu along the 318 Road) in summer 2023 with a offroad. We also have been driving in Yunnan for multiple times -- the clouds and trails there are unbeatable.
+- I enjoy road trip with my wife. We have been to Tibet (reversely from Lhasa to Chengdu along the 318 Road) in summer 2023 with a offroad. We also have been driving in Yunnan for multiple times -- the clouds and trails there are unbeatable.
 
 - I can dive 35 meters deep with Nitrox. Here is [me with turtle](turtle.jpeg).
 
