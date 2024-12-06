@@ -17,6 +17,8 @@ li,
 span,
 strong {
   color: var(--global-text-color);
+  // font-family: 'Newsreader', serif;
+  // font-weight: 350 !important; /* Set the default font weight here (e.g., 200, 400, 800, etc.) */
 }
 
 hr {
@@ -481,8 +483,8 @@ footer.sticky-bottom {
       border-color: var(--global-divider-color);
 
       .badge {
-        color: var(--global-card-bg-color) !important;
-        background-color: var(--global-theme-color) !important;
+        color: var(--global-card-bg-color);
+        background-color: var(--global-theme-color);
       }
     }
   }
@@ -715,7 +717,22 @@ footer.sticky-bottom {
           color: var(--global-theme-color) !important;
           border: 1px solid var(--global-theme-color);
         }
+
+        special {
+          display: inline-block;
+          background-color: var(--global-emph-color) !important;
+          margin-bottom: 0.5rem;
+        
+          a {
+            color: white !important; /* Ensure text contrasts with the background */
+            &:hover {
+              text-decoration: none;
+            }
+          }
+        }  
       }
+
+
 
       .title {
         font-weight: bolder;

@@ -9,6 +9,9 @@ nav_order: 4
 
 I gave themed talks on our research works. Here are some examples.
 
+- **Principles of Foundation Models**<br>
+  Talk at MINDS Jr Seminar, John Hopkins University, US (December 2024)
+
 - **Towards Test-time Self-supervised Learning**<br>
   Guest Lecture ([slides](assets/pdf/TT-SSL-talk-Nov2024.pdf)), [CSCI 3370: Deep Learning](https://miayuanai.github.io/csci3370/f24/), Boston College, US (November 2024)
 
@@ -20,8 +23,8 @@ I gave themed talks on our research works. Here are some examples.
   Talk at New York University Tandon, US (September 2024)
 
 - **Non-negative Contrastive Learning**  
-  Talk at Cohere AI (June 2024), Virtual  <br> 
-  Talk at MIT ML Tea (April 2024), US
+  Talk at Cohere AI, Virtual (June 2024)  <br> 
+  Talk at ML Tea, MIT, US  (April 2024)
 
 - **Self-supervised Learning of Identifiable Features**  
   Talk at TU Munich, Germany (May 2024)  

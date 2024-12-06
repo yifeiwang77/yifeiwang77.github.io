@@ -1,4 +1,16 @@
 
+@article{fang2024perplexity,
+  title={What is Wrong with Perplexity for Long-context Language Modeling?},
+  author={Lizhe Fang* and {<u>Yifei Wang</u>}* and Zhaoyang Liu and Chenheng Zhang and Stefanie Jegelka and Jinyang Gao and Bolin Ding and Yisen Wang},
+  journal={arXiv preprint arXiv:2410.23771},
+  year={2024},
+  abbr={arXiv},
+  selected = {true},
+  note = {We proposed a long-context perplexity measure that emphasizes long-context relevant tokens at training and evaluation, improving benchmark scores on LongBench, LongEval, and RULER by up to 22\%.},
+  pdf={https://arxiv.org/pdf/2405.18634},
+  code={https://github.com/PKU-ML/LongPPL},
+  special = {LLM training & eval},
+}
 
 @inproceedings{wang2024theoretical,
   title={A Theoretical Understanding of Self-Correction through In-context Alignment},
@@ -9,6 +21,7 @@
   abbr={NeurIPS},
   code={https://github.com/yifeiwang77/Self-Correction},
   selected = {true},
+  special = {Best Paper Award<br> at ICML-W'24},
   note = {
   <span style="font-weight: bold;">Best Paper Award</span>  at ICML 2024 ICL Workshop<br>
   We proposed the first theoretical explanation of how LLM self-correction works (as in OpenAI o1) and showed its effectiveness against social bias and jailbreak attacks.}
@@ -32,9 +45,23 @@
   pdf={https://arxiv.org/pdf/2405.18193},
   code={https://github.com/Sharut/In-Context-Symmetries},
   abbr={NeurIPS},
+  special = {Oral at NeurIPS-W'24},
   note={<span style="font-weight: bold;">Oral Presentation (top 4)</span> at NeurIPS 2024 SSL Workshop<br>
   We introduced unsupervised test-time adaptation ability to self-supervised learning through a contextual world model designed for joint embedding (JEPA) models.},
   selected = {true},
+}
+
+
+@article{wei2023jailbreak,
+  title={Jailbreak and guard aligned language models with only few in-context demonstrations},
+  author={Wei, Zeming and {<u>Yifei Wang</u>} and Wang, Yisen},
+  journal={arXiv preprint arXiv:2310.06387},
+  abbr={arXiv},
+  pdf={https://arxiv.org/pdf/2310.06387},
+  special = {Featured by Anthropic},
+  note = {<span style="font-weight: bold;">Cited over 140 times</span>. Featured and scaled up in <a href="https://www.anthropic.com/research/many-shot-jailbreaking" target="_blank">Anthropic's research blog</a>, where it successfully demonstrated jailbreaking prominent LLMs, including GPT and Claude.},
+  selected = {true},
+  year={2023}
 }
 
 @inproceedings{wang2024canonization,
@@ -110,6 +137,7 @@
   year={2024},
   pdf={https://arxiv.org/pdf/2310.12793},
   code={https://github.com/OODRobustBench/OODRobustBench},
+  website={https://oodrobustbench.github.io/},
   abbr={ICML},
 }
 
@@ -142,7 +170,7 @@
   slides={NCL_LIDS_tea.pdf},
   abbr={ICLR},
   selected = {true},
-  note = {Inspired by NMF, we introduced a one-line technique that enables contrastive learning to have feature sparsity of 90% and 10x better feature interpretability.}
+  note = {Inspired by NMF, we introduced a one-line technique that <span style="font-weight: bold;">attains 90\% feature sparsity to 90% and 10x feature interpretability</span> in contrastive learning models.}
 }
 
 @inproceedings{wang2024generated,
@@ -293,7 +321,7 @@
   code={https://github.com/PKU-ML/DynACL},
   abbr={ICLR},
   selected = {true},
-  note = {We redesigned adversarial training in the unsupervised setting and attained SOTA by improving AutoAttack by at most 9%  without extra computation cost.}
+  note = {We <span style="font-weight: bold;">improved adversarial robustness under AutoAttack by 9%</span> in the unsupervised setting with a dynamic training schedule, without extra computation cost.}
 }
 
 @inproceedings{guo2023contranorm,
@@ -321,7 +349,7 @@
   author={Shiji Xin and {<u>Yifei Wang</u>} and Jingtong Su and Yisen Wang},
   booktitle={AAAI},
   year={2023},
-  note={<span style="font-weight: bold;">Oral</span>},
+  special={Oral},
   pdf={https://arxiv.org/pdf/2212.09082.pdf},
   abbr={AAAI},
 }
@@ -334,7 +362,8 @@
   pdf={https://arxiv.org/pdf/2210.08344},
   code={https://github.com/zhangq327/U-MAE},
   slides={NeurIPS2022_mae.pdf},
-  abbr={NeurIPS Spotlight},
+  abbr={NeurIPS},
+  special={Spotlight},
   selected = {true},
   note = {We theoretically explained how masked autoencoders work and revealed their mathematical connections to joint embedding methods, unifying them as a whole. }
 }
@@ -357,7 +386,8 @@
   year={2022},
   pdf={https://arxiv.org/pdf/2210.07540.pdf},
   code={https://github.com/mo666666/When-Adversarial-Training-Meets-Vision-Transformers},
-  abbr={NeurIPS Spotlight},
+  abbr={NeurIPS},
+  special={Spotlight},
 }
 
 
@@ -366,7 +396,7 @@
   author={Jingyi Cui* and Weiran Huang* and {<u>Yifei Wang</u>} and Yisen Wang},
   booktitle={NeurIPS SSL Workshop},
   year={2022},
-  note={Oral},
+  special={Oral},
   pdf={https://sslneurips22.github.io/paper_pdfs/paper_68.pdf},
   abbr={NeurIPS Workshop},
 }
@@ -400,7 +430,7 @@
   slides={ICLR2022_overlap.pdf},
   abbr={ICLR},
   selected = {true},
-  note = {We established a new graph-theoretic perspective to understand how contrastive self-supervised learning works and derive tight generalization bounds.}
+  note = {<span style="font-weight: bold;">Cited over 120 times</span>. We derived tight generalization bounds for contrastive learning with a new realistic theoretical framework. It derived unsupervised evaluation metrics  with 97% correlation to downstream performance.}
 }
 
 @inproceedings{wang2022cem,
@@ -412,8 +442,9 @@
   slides={ICLR2022_CEM.pdf},
   abbr={ICLR},
   selected = {true},
+  special = {Silver Best Paper <br> at ICML-W'21},
   note = {
-  <span style="font-weight: bold;">Silver Best Paper Award</span> at ICML 2021 AdvML workshop<br>
+  <span style="font-weight: bold; color: var(--global-theme-color);">Silver Best Paper Award</span> at ICML 2021 AdvML workshop<br>
   From an energy-based perspective, we formulated contrastive learning as a generative model, and  established the connection between adversarial training and maximum likelihood, thus briding generative and discriminative models together.}
 }
 
@@ -451,6 +482,7 @@
   media={https://mp.weixin.qq.com/s/Ah43Tqhn0CL2kLxhI_nieQ},
   talk={https://www.bilibili.com/video/BV1sL4y167gj},
   abbr={ECML-PKDD},
+  special={Best ML Paper Award},
   selected = {true},
   note = {
   <span style="font-weight: bold;">Best ML Paper Award (1/685)</span>, invited to <i>Machine Learning</i><br>
