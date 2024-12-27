@@ -718,6 +718,19 @@ footer.sticky-bottom {
           border: 1px solid var(--global-theme-color);
         }
 
+        special2 {
+          display: inline-block;
+          background-color: var(--global-text-color-light) !important;
+          margin-bottom: 0.5rem;
+          a {
+            color: black !important; /* Ensure text contrasts with the background */
+            &:hover {
+              text-decoration: none;
+            }
+          }
+        }
+
+
         special {
           display: inline-block;
           background-color: var(--global-emph-color) !important;
