@@ -24,4 +24,4 @@ I served as an organizer for [NeurIPS 2024 Workshop on Red Teaming GenAI](https:
 
 I obtained my PhD in Applied Mathematics from Peking University in 2023, advised by [Yisen Wang](https://yisenwang.github.io), [Zhouchen Lin](https://zhouchenlin.github.io/), [Jiansheng Yang](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/y_20180628175159671361/69984.htm). Prior to that, I did my undergraduate at School of Mathematical Sciences, Peking University.
 
-**I am on the job market 2024-2025 and actively looking for jobs! Links: [CV](assets/pdf/CV-Yifei Wang-MIT-Dec2024.pdf) \|  [Research Statement](assets/pdf/Research Statement Yifei Wang.pdf)**
+**I am on the job market 2024-2025 and actively looking for jobs! Links: [CV](assets/pdf/CV-Yifei-Wang-MIT.pdf) \|  [Research Statement](assets/pdf/Research Statement Yifei Wang.pdf)**

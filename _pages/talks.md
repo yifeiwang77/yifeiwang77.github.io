@@ -13,7 +13,7 @@ I gave themed talks on our research works. Here are some examples.
   Talk at MINDS Jr Seminar, John Hopkins University, US (December 2024)
 
 - **Towards Test-time Self-supervised Learning**<br>
-  Guest Lecture ([slides](assets/pdf/TT-SSL-talk-Nov2024.pdf)), [CSCI 3370: Deep Learning](https://miayuanai.github.io/csci3370/f24/), Boston College, US (November 2024)
+  Guest Lecture ([slides](../assets/pdf/TT-SSL-talk-Nov2024.pdf)), [CSCI 3370: Deep Learning](https://miayuanai.github.io/csci3370/f24/), Boston College, US (November 2024)
 
 - **Reimagining Self-supervised Learning with Context**  
   Talk at MIT ML Tea Seminar, US (October 2024)<br> 
