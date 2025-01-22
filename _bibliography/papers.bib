@@ -3,14 +3,73 @@
   title={What is Wrong with Perplexity for Long-context Language Modeling?},
   author={Lizhe Fang* and {<u>Yifei Wang</u>}* and Zhaoyang Liu and Chenheng Zhang and Stefanie Jegelka and Jinyang Gao and Bolin Ding and Yisen Wang},
   journal={arXiv preprint arXiv:2410.23771},
-  year={2024},
-  abbr={arXiv},
+  year={2025},
+  abbr={ICLR},
   selected = {true},
+  special2={LLM training and eval},
   note = {We proposed a <strong>long-context perplexity (LongPPL)</strong> measure that emphasizes long-context relevant tokens at training and evaluation, improving benchmark scores on LongBench, LongEval, and RULER by <strong>up to 22\%</strong>.},
-  pdf={https://arxiv.org/pdf/2410.23771},
-  code={https://github.com/PKU-ML/LongPPL},
-  special = {LLM training & eval},
+  pdf={https://openreview.net/pdf?id=fL4qWkSmtM},
+  code={https://github.com/PKU-ML/LongPPL}
 }
+
+
+@article{fang2024invariance,
+  title={Rethinking Invariance in In-context Learning},
+  author={Lizhe Fang* and {<u>Yifei Wang</u>}* and Khashayar Gatmiry and Lei Fang and Yisen Wang},
+  journal={ICLR},
+  year={2025},
+  abbr={ICLR},
+  special2={LLM training},
+  note = {We discovered an <strong>expressive invariant in-context learning scheme (InvICL)</strong> that achieves permutation invariance of in-context demonstrations while preserving autoregressive nature and full context awareness at the same time.},
+  pdf={https://openreview.net/pdf?id=q1UyoY3MgJ},
+}
+
+
+@article{zhang2025tool,
+  title={Tool Decoding: A Plug-and-Play Approach to Enhancing Language Models for Tool Usage},
+  author={Chenheng Zhang and Mingqing Xiao and {<u>Yifei Wang</u>} and Lizhe Fang and Haihan Zhang and Zhouchen Lin},
+  journal={ICLR},
+  year={2025},
+  abbr={ICLR},
+  selected = {true},
+  special2={LLM decoding},
+  note = {We proposed a simple <strong>training-free, plug-and-play constrained decoding scheme</strong> that significantly improves LLM performance at tool use (e.g. it rivals GPT-4o with a 7B model).},
+  pdf={https://openreview.net/pdf?id=5bUy4F59mk},
+}
+
+
+@article{zhuo2025projection,
+  title={Can In-context Learning Really Generalize to Out-of-distribution Tasks?},
+  author={Qixun Wang and {<u>Yifei Wang</u>} and Yisen Wang and Xianghua Ying},
+  journal={ICLR},
+  year={2025},
+  abbr={ICLR},
+  note = {With controlled experiments, we found that in-context learning still happens only with in-domain tasks and hardly generalizes to novel OOD tasks. In other words, LLMs' in-context abilities are learned essentially through training data with likewise tasks.},
+  pdf={https://openreview.net/pdf?id=INe4otjryz},
+}
+
+@article{zhuo2025projection,
+  title={Beyond Interpretability: The Gains of Feature Monosemanticity on Model Robustness},
+  author={Qi Zhang* and {<u>Yifei Wang</u>}* and Jingyi Cui and Xiang Pan and Qi Lei and Stefanie Jegelka and Yisen Wang},
+  journal={ICLR},
+  year={2025},
+  abbr={ICLR},
+  note = {We found that the merits of <strong>feature monosemanticity</strong> (as studied in mechanistic interpretability) extends beyond interpretability to improving robustness across various challenges like noisy data, limited training examples, and such.},
+  pdf={https://openreview.net/forum?id=g6Qc3p7JH5},
+}
+
+@article{zhang2025tool,
+  title={Projection Head is Secretly an Information Bottleneck},
+  author={Zhuo Ouyang and Kaiwen Hu and  Qi Zhang and {<u>Yifei Wang</u>} and Yisen Wang},
+  journal={ICLR},
+  year={2025},
+  abbr={ICLR},
+  selected = {true},
+  note = {We showed that projection heads serve as an information bottleneck that prevent features from collapsing toward the pretraining task (e.g. instance classification).},
+  pdf={https://openreview.net/pdf?id=L0evcuybH5},
+}
+
+
 
 @inproceedings{wang2024theoretical,
   title={A Theoretical Understanding of Self-Correction through In-context Alignment},
