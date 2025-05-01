@@ -4,7 +4,7 @@ permalink: /misc/
 title: "misc"
 # description: "Materials for courses taught by Yifei."
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 - My Chinese name is 王一飞, consisting of three of the easiest Chinese characters. Yifei is a common first name, but depending on the specific characters, it can have different meaings. Disambiguation: I am ``~Yifei_Wang1`` on [OpenReview](https://openreview.net/profile?id=~Yifei_Wang1):)
