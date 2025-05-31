@@ -7,6 +7,8 @@ nav: true
 nav_order: 2
 ---
 
+See full list on [Google Scholar](https://scholar.google.com/citations?user=-CLy6YsAAAAJ)
+
 <!-- _pages/publications.md -->
 
 <!-- Bibsearch Feature -->

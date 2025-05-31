@@ -13,26 +13,28 @@ My research spans the **theory and methodology** of the following core areas of 
 - [**III. Robust Representation Learning**](#iii-robust-representation-learning)
 - [**IV. Structural Representation Learning**](#iv-structural-representation-learning)
 
-**Research Methodology.** Although people often find that deep learning relies on tons of empirical intuitions, I'd rather believe that "nothing is more intuitive than a good theory." The process of developing a theory of your intuition helps question, sharpen, validate your intuitive understanding. I follow this principle in my work and hope you find them helpful as well.
+**Research Methodology.** Although people often find that deep learning relies on tons of empirical intuitions, I'd rather believe that "nothing is more intuitive than a good theory." The process of formalizing a theory of your intuition helps question, sharpen, validate your understanding. I follow this principle in my work and hope you find it helpful as well.
 
 ---
 ##### **I. Contextual Understanding and Reasoning with LLMs**
 
 How LLMs understand, adapt to, and reason with contexts.
 
-**I.1 In-context / Long-context Understanding: LongPPL & LongCE, Invariant ICL, OOD of ICL**
-- [*What is Wrong with Perplexity for Long-context Language Modeling?*](https://openreview.net/pdf?id=fL4qWkSmtM) (ICLR 2025)  
+**I.1 Contextual Understanding: In-context Learning, Long-context Modeling, Length Generalization**
+- [*What is Wrong with Perplexity for Long-context Language Modeling?*](https://openreview.net/pdf?id=fL4qWkSmtM) (ICLR 2025)
 - [*Rethinking Invariance in In-context Learning*](https://openreview.net/pdf?id=q1UyoY3MgJ) (ICLR 2025)  
 - [*Can In-context Learning Really Generalize to OOD Tasks?*](https://openreview.net/pdf?id=INe4otjryz) (ICLR 2025)  
+- [*Output Alignment: A Fresh Perspective on Length Generalization in LLMs*](https://openreview.net/pdf?id=sxL3irchez) (ICML 2025)
+
 
 **I.2 Chain-of-thought and Reasoning: Self-correction, Optimal Chain-of-thought Length, Reasoning on Graph**
-- [*A Theoretical Understanding of Self-Correction through In-context Alignment*](https://arxiv.org/pdf/2405.18634) (NeurIPS 2024)  
+- [*A Theoretical Understanding of Self-Correction through In-context Alignment*](https://arxiv.org/pdf/2405.18634) (NeurIPS 2024, Best Paper at ICML 2024 Workshop)  
 - [*When More is Less: Understanding Chain-of-Thought Length in LLMs*](https://arxiv.org/abs/2502.07266) (Best Paper Runner-up at ICLR 2025 Workshop)  
 - [*G1: Teaching LLMs to Reason on Graphs with Reinforcement Learning*](https://www.arxiv.org/pdf/2505.18499) (arxiv 2025)
 
 
-**I.3 Transformers: Position Bias, Multi-layer Attention, Dimensional Feature Collapse**
-- [*On the Emergence of Position Bias in Transformers*](https://www.arxiv.org/pdf/2502.01951) (ICML 2025)  
+**I.3 Transformers: Position Bias, Multi-layer Attention, Dimensional Collapse**
+- [*On the Emergence of Position Bias in Transformers*](https://www.arxiv.org/pdf/2502.01951) (ICML 2025)
 - [*On the Role of Attention Masks and LayerNorm in Transformers*](https://arxiv.org/pdf/2405.18781) (NeurIPS 2024)  
 - [*ContraNorm: A Contrastive Learning Perspective on Oversmoothing and Beyond*](https://openreview.net/pdf?id=SM7XkJouWHm) (ICLR 2023)  
 
