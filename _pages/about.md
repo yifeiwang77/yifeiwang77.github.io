@@ -13,9 +13,10 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 ---
 
-I am interested in understanding and building AI models with good representation of the world, with a focus on unsupervised learning and language models these days (see [research](/research)). I obtained my PhD in Applied Mathematics from Peking University in 2023, advised by [Yisen Wang](https://yisenwang.github.io), [Zhouchen Lin](https://zhouchenlin.github.io/), [Jiansheng Yang](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/y_20180628175159671361/69984.htm). I did my undergraduate at School of Mathematical Sciences at Peking University as well. My first-author papers received [4 best paper awards](./awards) and I served as an Area Chair for ICLR 2024 and 2025.
+I am interested in understanding and building AI models with good representation of the world, with a focus on self-supervised learning and foundation models (see [research](/research)). I obtained my PhD in Applied Mathematics from Peking University in 2023, advised by [Yisen Wang](https://yisenwang.github.io), [Zhouchen Lin](https://zhouchenlin.github.io/), [Jiansheng Yang](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/y_20180628175159671361/69984.htm). I did my undergraduate at School of Mathematical Sciences at Peking University as well. My first-author papers received [4 best paper awards](./awards) and I served as an Area Chair for ICLR 2024 and 2025.
 
 Science often arises from alchemy, and I enjoy distilling deep learning alchemy and mystery into scientific understanding. For instance, we established mathematical understanding of [why overthinking harms LLM reasoning](https://arxiv.org/pdf/2502.07266), [why Transformers have position bias](https://www.arxiv.org/pdf/2502.01951), [why DINO features won't collapse](https://arxiv.org/pdf/2303.02387), [why MAE learns good features](https://arxiv.org/pdf/2210.08344), [why adversarial training severely overfits](https://arxiv.org/pdf/2310.19360.pdf), and [why robust models become generative](https://arxiv.org/pdf/2203.13455). 
+
 <!-- Don't wanna bother reading papers? Buy me a coffee and I’ll give you a 5-min walkthrough. :) -->
 
 <!-- I occasionally post latest research highlights on [Twitter / X](https://x.com/yifeiwang77/highlights).  -->

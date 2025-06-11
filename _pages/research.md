@@ -7,18 +7,18 @@ nav: true
 nav_order: 1
 ---
 
-My research spans the **theory and methodology** of the following core areas of modern machine learning (click to see):
-- [**I. Contextual Understanding and Reasoning with LLMs**](#i-contextual-understanding-and-reasoning-with-llms)
-- [**II. Unsupervised Representation Learning**](#ii-unsupervised-representation-learning)
-- [**III. Robust Representation Learning**](#iii-robust-representation-learning)
-- [**IV. Structural Representation Learning**](#iv-structural-representation-learning)
+My research spans the **theory and methodology** of the following core aspects of foundation models (click to see):
+- [**I. Contextual Understanding and Reasoning**](#i-contextual-understanding-and-reasoning)
+- [**II. Self-supervised Learning**](#ii-self-supervised-learning)
+- [**III. Robust Deep Learning**](#iii-robust-deep-learning)
+- [**IV. Structural Deep Learning**](#iv-structural-deep-learning)
 
 **Research Methodology.** Although people often find that deep learning relies on tons of empirical intuitions, I'd rather believe that "nothing is more intuitive than a good theory." The process of formalizing a theory of your intuition helps question, sharpen, validate your understanding. I follow this principle in my work and hope you find it helpful as well.
 
 ---
-##### **I. Contextual Understanding and Reasoning with LLMs**
+##### **I. Contextual Understanding and Reasoning**
 
-How LLMs understand, adapt to, and reason with contexts.
+How models, especially Large Language Models (LLMs), understand and reason with contexts.
 
 **I.1 Contextual Understanding: In-context Learning, Long-context Modeling, Length Generalization**
 - [*What is Wrong with Perplexity for Long-context Language Modeling?*](https://openreview.net/pdf?id=fL4qWkSmtM) (ICLR 2025)
@@ -40,10 +40,10 @@ How LLMs understand, adapt to, and reason with contexts.
 
 
 ---
-##### **II. Unsupervised Representation Learning**
-How to pretrain powerful foundation models from massive unlabeled data.
+##### **II. Self-supervised Learning**
+How to train powerful foundation models from massive unlabeled data with self-supervised learning (SSL).
 
-**II.1 Self-supervised Learning (SSL): Contrastive, Non-contrastive, Equivariant, Contextual**
+**II.1 Representation Learning Paradigms: Contrastive, Non-contrastive, Equivariant, Contextual**
 - [*Chaos is a Ladder: A New Theoretical Understanding of Contrastive Learning via Augmentation Overlap*](http://arxiv.org/pdf/2203.13457) (ICLR 2022)  
 - [*Towards a Unified Theoretical Understanding of Non-contrastive Learning via Rank Differential Mechanism*](https://openreview.net/pdf?id=cIbjyd2Vcy) (ICLR 2023)  
 - [*Understanding the Role of Equivariance in Self-supervised Learning*](https://arxiv.org/pdf/2411.06508) (NeurIPS 2024)  
@@ -71,7 +71,7 @@ How to pretrain powerful foundation models from massive unlabeled data.
 
 ---
 
-##### **III. Robust Representation Learning**
+##### **III. Robust Deep Learning**
 
 How to build models robust to adversarial attacks and reliable across distribution shifts.
 
@@ -91,7 +91,7 @@ How to build models robust to adversarial attacks and reliable across distributi
 
 ---
 
-##### **IV. Structural Representation Learning**
+##### **IV. Structural Deep Learning**
 
 How to learn structured data (e.g., graphs) efficiently with structured models, such as, Graph Neural Networks (GNNs).
 
