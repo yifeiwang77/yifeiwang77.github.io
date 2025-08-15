@@ -9,9 +9,13 @@ nav_order: 4
 
 I gave themed talks on our research works. Here are some examples.
 
+- **Two New Dimensions of Sparsity for Scaling LLMs**<br>
+  Invited Talk at the Gemini team at Google DeepMind, Virtual (Aug 2025)
+
 - **Your Next-Token Prediction and Transformers Are Biased for Long-Context Modeling**<br>
   Invited Talk at the [ASAP seminar](https://asap-seminar.github.io/) ([slides](https://asap-seminar.github.io/assets/slides/asap-yifei-wang.pdf) and [recording](https://youtu.be/A36u6DB_TgU)), Virtual (June 2025) <br>
-  Invited Talk at Xiaomi AI Lab Foundation Model team, Virtual (June 2025)
+  Invited Talk at Xiaomi AI Lab Foundation Model team, Virtual (June 2025) <br>
+  Invited Talk at [FAI Seminar](https://mp.weixin.qq.com/s/jcxJbaxwXma7azDTBCEAJA?scene=2), Virtual (July 2025)
 
 
 - **Contextual Self-supervised Learning: A Lesson from LLMs**<br>
