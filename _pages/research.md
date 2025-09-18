@@ -30,7 +30,7 @@ How models, especially Large Language Models (LLMs), understand and reason with 
 **I.2 Chain-of-thought and Reasoning: Self-correction, Optimal Chain-of-thought Length, Reasoning on Graph**
 - [*A Theoretical Understanding of Self-Correction through In-context Alignment*](https://arxiv.org/pdf/2405.18634) (NeurIPS 2024, Best Paper at ICML 2024 Workshop)  
 - [*When More is Less: Understanding Chain-of-Thought Length in LLMs*](https://arxiv.org/abs/2502.07266) (Best Paper Runner-up at ICLR 2025 Workshop)  
-- [*G1: Teaching LLMs to Reason on Graphs with Reinforcement Learning*](https://www.arxiv.org/pdf/2505.18499) (arxiv 2025)
+- [*G1: Teaching LLMs to Reason on Graphs with Reinforcement Learning*](https://www.arxiv.org/pdf/2505.18499) (NeurIPS 2025)
 
 
 **I.3 Transformers: Position Bias, Multi-layer Attention, Dimensional Collapse**
