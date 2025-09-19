@@ -100,6 +100,7 @@ How to learn structured data (e.g., graphs) efficiently with structured models, 
 - [*Optimization-Induced Graph Implicit Nonlinear Diffusion*](https://proceedings.mlr.press/v162/chen22z/chen22z.pdf) (ICML 2022)  
 - [*Unbiased Stochastic Proximal Solver for Graph Neural Networks with Equilibrium States*](https://openreview.net/pdf?id=j3cUWIMsFBN) (ICLR 2023)  
 - [*Architecture Matters: Uncovering Implicit Mechanisms in Graph Contrastive Learning*](https://arxiv.org/pdf/2311.02687.pdf) (NeurIPS 2023)  
+- [*A Signed Graph Approach to Understanding and Mitigating Oversmoothing in GNNs*](https://www.arxiv.org/pdf/2502.11394) (NeurIPS 2025)
 
 **IV.2 Learning with Symmetry: Laplacian canonicalization, theory of canonicalization**
 - [*Laplacian Canonization: A Minimalist Approach to Sign and Basis Invariant Spectral Embedding*](https://arxiv.org/pdf/2310.18716.pdf) (NeurIPS 2023)  
