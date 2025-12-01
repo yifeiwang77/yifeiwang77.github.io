@@ -7,6 +7,8 @@ nav: true
 nav_order: 1
 ---
 
+Last update: Sep 2025
+
 My research spans the **theory and methodology** of the following core aspects of foundation models (click to see):
 - [**I. Contextual Understanding and Reasoning**](#i-contextual-understanding-and-reasoning)
 - [**II. Self-supervised Learning**](#ii-self-supervised-learning)
