@@ -18,7 +18,7 @@ I am currently a Member of Technical Staff at the <a href="https://www.amazon.sc
 
 Previously, I was a postdoctoral researcher at <a href="https://www.csail.mit.edu/">MIT CSAIL</a>, advised by <a href="https://people.csail.mit.edu/stefje/">Stefanie Jegelka</a>.  I received my Ph.D. in Applied Mathematics from Peking University, advised by  [Yisen Wang](https://yisenwang.github.io), [Zhouchen Lin](https://zhouchenlin.github.io/), and  [Jiansheng Yang](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/y_20180628175159671361/69984.htm).  I also completed my B.S. and B.A. at Peking University.
 
-My research interests lie broadly in unsupervised learning, representation learning, and reinforcement learning, with the overarching goal of developing more scalable and generalizable learning paradigms. My work has received [4 best paper awards](./awards) and has been featured by  [MIT News](https://news.mit.edu/2025/unpacking-large-language-model-bias-0617) and  [Anthropic](https://www.anthropic.com/research/many-shot-jailbreaking). I serve as an Area Chair for ICLR and ICML.
+My research interests lie broadly in unsupervised learning, representation learning, and reinforcement learning, with the overarching goal of developing more scalable and generalizable learning paradigms. My work has received [5 best paper awards](./awards) and has been featured by  [MIT News](https://news.mit.edu/2025/unpacking-large-language-model-bias-0617) and  [Anthropic](https://www.anthropic.com/research/many-shot-jailbreaking). I serve as an Area Chair for ICLR and ICML.
 
 
 <!-- with application to building generic and reliable AI agents. -->
