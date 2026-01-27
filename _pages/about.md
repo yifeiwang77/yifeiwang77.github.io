@@ -14,7 +14,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 
 
 I am currently a Member of Technical Staff at the <a href="https://www.amazon.science/blog/amazon-opens-new-ai-lab-in-san-francisco-focused-on-long-term-research-bets">Amazon AGI SF Lab</a>. 
-My research focuses on post-training LLMs to build more capable agents, improving their general reasoning across diverse real-world tasks including search, coding, and computer use.
+I currently focus on post-training LLMs to build more capable agents, improving their general reasoning across diverse real-world tasks including search, coding, and computer use.
 
 
 <!-- My current research focuses on LLM post-training for agents, improving their general reasoning across diverse real-world agent tasks such as search, coding, and computer use. -->
