@@ -4,7 +4,7 @@ permalink: /publications/
 title: publication
 description: '* denotes shared first authorship'
 nav: true
-nav_order: 2
+nav_order: 1
 ---
 
 See full list on [Google Scholar](https://scholar.google.com/citations?user=-CLy6YsAAAAJ)

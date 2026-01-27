@@ -21,6 +21,10 @@ strong {
   // font-weight: 350 !important; /* Set the default font weight here (e.g., 200, 400, 800, etc.) */
 }
 
+h2 {
+  font-size: 1.6em;
+}
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
@@ -587,6 +591,11 @@ footer.sticky-bottom {
   }
 }
 
+.selected-publications-link {
+  font-size: 0.5em;
+  font-weight: normal;
+}
+
 .pagination {
   .page-item {
     .page-link {
@@ -861,6 +870,12 @@ footer.sticky-bottom {
     }
   }
 }
+
+.news {
+  font-size: 15px;
+  margin-bottom: 1rem;
+}
+
 
 // Rouge Color Customization
 figure.highlight {

@@ -3,7 +3,7 @@ layout: page
 title: awards
 permalink: /awards/
 nav: true
-nav_order: 3
+nav_order: 2
 ---
 
 - **Best Paper Award** (sole recipient), NeurIPS 2025 Workshop on New Perspectives in Graph Machine Learning, 2025

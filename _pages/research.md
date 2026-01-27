@@ -4,7 +4,7 @@ permalink: /research/
 title: research
 description:
 nav: true
-nav_order: 1
+nav_order: 2
 ---
 
 Last update: Sep 2025
