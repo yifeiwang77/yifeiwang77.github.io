@@ -8,7 +8,7 @@ nav_order: 4
 ---
 
 **Area Chair**: 
-- ICLR, ICML
+- ICLR, ICML, NeurIPS
 
 **Workshop Organizer**:
 -  [NeurIPS 2024 Workshop on Red Teaming GenAI](https://redteaming-gen-ai.github.io/)
