@@ -16,6 +16,6 @@ nav_order: 6
 - I am interested in political and moral philosophy and religous studies. I obtained a double Bechelor's degree in philosophy at Peking University. Zengding Wu ([吴增定](https://phil.pku.edu.cn/szdw/szll/llxjys/274750.htm)) was my thesis advisor. I quite enjoyed the time digging into Nietzsche's every book and discussed it weekly with Zengding.
 
 
-Contact: yifeiwg@amazon.com <s> yifei_w@mit.edu</s>
+Contact: yifeiwang0518@gmail.com <s> yifei_w@mit.edu</s>
 
 Office: Stata Center (RM 414), Cambridge, MA 02139
