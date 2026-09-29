@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publication
-description: '* denotes shared first authorship; # denotes corresponding author'
+description: '* denotes shared first authorship'
 nav: true
 nav_order: 1
 ---
