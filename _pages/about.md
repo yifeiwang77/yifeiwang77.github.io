@@ -27,7 +27,7 @@ I help build the lab’s next-generation general-agent training effort from scra
 
 I was a postdoc at <a href="https://www.csail.mit.edu/">MIT CSAIL</a> (2023-2025), advised by <a href="https://people.csail.mit.edu/stefje/">Stefanie Jegelka</a>.  I received my Ph.D. in Applied Mathematics from Peking University, advised by  [Yisen Wang](https://yisenwang.github.io), [Zhouchen Lin](https://zhouchenlin.github.io/), and  [Jiansheng Yang](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/y_20180628175159671361/69984.htm).  I also completed my B.S. and B.A. at Peking University.
 
-In research, I am generally interested in reasoning, representation learning, and self-supervised learning. My work has received [5 best paper awards](./awards) and has been featured by  [MIT News](https://news.mit.edu/2025/unpacking-large-language-model-bias-0617) and  [Anthropic](https://www.anthropic.com/research/many-shot-jailbreaking). I serve as an Area Chair for ICLR, ICML and NeurIPS.
+In research, I am generally interested in reasoning, representation learning, and self-supervised learning. My work has received [5 paper awards](./awards) and has been featured by  [MIT News](https://news.mit.edu/2025/unpacking-large-language-model-bias-0617) and  [Anthropic](https://www.anthropic.com/research/many-shot-jailbreaking). I serve as an Area Chair for ICLR, ICML and NeurIPS.
 
 
 <!-- with application to building generic and reliable AI agents. -->
