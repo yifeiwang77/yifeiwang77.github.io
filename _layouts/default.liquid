@@ -16,7 +16,8 @@
   </head>
 
   <!-- Body -->
-  <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
+  {% assign page_url_prefix = page.url | slice: 0, 6 %}
+  <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}{% if page_url_prefix == '/blog/' %} blog-page{% endif %}">
     <!-- Header -->
     {% include header.liquid %}
 

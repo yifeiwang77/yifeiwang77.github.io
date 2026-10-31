@@ -13,7 +13,7 @@ footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: favicon-192x192.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: # leave blank for no favicon
 
 url: https://yifeiwang77.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -227,6 +227,7 @@ kramdown:
 # Includes & excludes
 include: ["_pages"]
 exclude:
+  - _posts/2026-10-11-score-centering-done-right-draft.md
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
@@ -284,7 +285,8 @@ sass:
 # -----------------------------------------------------------------------------
 
 jekyll-minifier:
-  exclude: ["robots.txt", "assets/js/search/*.js", "assets/libs/**/*"]
+  # Sass already compresses main.css; avoid a second, slow CSS minification pass.
+  exclude: ["robots.txt", "assets/css/main.css", "assets/js/search/*.js", "assets/libs/**/*"]
   uglifier_args:
     harmony: true
 
@@ -303,8 +305,8 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
-display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
+display_tags: ["reinforcement-learning", "policy-gradient", "score-centering"] # these tags will be displayed on the front page of your blog
+display_categories: ["research"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
